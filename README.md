@@ -32,7 +32,7 @@ Here is a glimpse of the internal structure. The workflow automatically handles 
       "mode": "list"
     }
   }
-}
+}```
 
 ### 🧠 Core Intelligence (Free)
 * **Deep Sentiment Analysis:** Multi-model evaluation of market psychology using neural networks—completely free.
