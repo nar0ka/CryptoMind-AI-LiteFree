@@ -34,6 +34,12 @@ This project is fully open-source. You can download the workflow for free to gai
 
 ---
 
+### 🔥 Upgrade to Pro
+Take your trading to the next level with institutional-grade tools:
+🚀 **[CryptoMind AI Pro on GitHub](https://github.com/nar0ka/CryptoMind-AI-Pro)** — Multi-coin support, GPT-4o integration, and advanced technical indicators.
+
+---
+
 ### 🌐 Stay Connected
 Join our community for updates on Pro versions, new workflows, and AI automation tips:
 
