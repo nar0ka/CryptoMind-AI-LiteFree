@@ -61,6 +61,7 @@ This project is fully open-source. You can download the workflow for free to gai
 
 ### 🔥 Upgrade to Pro
 Take your trading to the next level with institutional-grade tools:
+
 🚀 **[CryptoMind AI Pro on GitHub](https://github.com/nar0ka/CryptoMind-AI-Pro)** — Deep Market Analysis, GPT-4o integration, and advanced technical indicators for Bitcoin.
 
 ---
