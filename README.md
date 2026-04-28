@@ -1,6 +1,8 @@
 📊 CryptoMind AI Lite: Free Institutional-Grade Analytical Station
 Stop trading on emotions. Start executing with intelligence — for FREE.
 
+[![CryptoMind AI Lite](изображение_2026-04-28_092609221.png)
+
 CryptoMind AI Lite is a high-performance free n8n workflow designed to act as your personal, 24/7 analytical department. By combining real-time market data with the reasoning power of Google Gemini, it filters market noise to deliver institutional-grade signals at zero cost.
 
 🧠 Core Intelligence (Free)
