@@ -10,6 +10,30 @@ CryptoMind AI Lite is a high-performance **free n8n workflow** designed to act a
 
 ---
 
+### ⚡ Key Logic Preview
+Here is a glimpse of the internal structure. The workflow automatically handles data logging and scheduled triggers to ensure consistent market monitoring:
+
+```json
+{
+  "name": "Save to Pro Table",
+  "type": "n8n-nodes-base.googleSheets",
+  "typeVersion": 4.5,
+  "position": [1248, 192],
+  "parameters": {
+    "operation": "append",
+    "documentId": {
+      "__rl": true,
+      "value": "1xd6erfNIH9EtMKRkNHiKuelQosqPL1AzwDTYRVatpWs",
+      "mode": "id"
+    },
+    "sheetName": {
+      "__rl": true,
+      "value": "gid=0",
+      "mode": "list"
+    }
+  }
+}
+
 ### 🧠 Core Intelligence (Free)
 * **Deep Sentiment Analysis:** Multi-model evaluation of market psychology using neural networks—completely free.
 * **Institutional-Grade Logic:** Advanced scoring algorithms that calculate a "Confidence Score" for every signal.
