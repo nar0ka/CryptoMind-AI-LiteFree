@@ -38,6 +38,7 @@ This project is fully open-source. You can download the workflow for free to gai
 Join our community for updates on Pro versions, new workflows, and AI automation tips:
 
 🐦 **[Follow Naroka Automation on X (Twitter)](https://x.com/nar0ka)**
+
 💎 **[Check out Naroka Studio on GitHub](https://github.com/nar0ka)**
 
 ---
