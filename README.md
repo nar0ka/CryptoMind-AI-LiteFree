@@ -1,5 +1,3 @@
-Here is the professional, high-converting English version for your GitHub README.md and Gumroad description:
-
 📊 CryptoMind AI Lite: Free Institutional-Grade Analytical Station
 Stop trading on emotions. Start executing with intelligence — for FREE.
 
