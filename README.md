@@ -74,4 +74,19 @@ Join our community for updates on Pro versions, new workflows, and AI automation
 💎 **[Check out Naroka Studio on GitHub](https://github.com/nar0ka)**
 
 ---
+
+## 🚀 Ready to Delegate Routine to AI?
+
+I develop **custom automation and AI assistants using n8n** that work 24/7 and save dozens of hours of your time. I take care of the entire process: from analyzing your tasks to delivering a complete turnkey solution.
+
+### Get in touch:
+
+* 💬 **Telegram:** [t.me/nar00ka](https://t.me/nar00ka) — let’s discuss your idea in 10 minutes.
+* 🐙 **GitHub:** https://github.com/nar0ka — explore my open-source projects.
+* 📦 **Gumroad:** https://naroka.gumroad.com — check out ready-to-use workflows.
+
+> **💡 Bonus:** If you are not sure where to start your automation journey, just drop me a message — I will help you identify which processes can be optimized today!
+
+---
+
 *Developed with 💎 by **[Naroka Studio](https://github.com/nar0ka)** — Building the future of autonomous business engines.*
