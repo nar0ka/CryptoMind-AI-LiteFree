@@ -11,6 +11,7 @@ CryptoMind AI Lite is a high-performance **free n8n workflow** designed to act a
 
 ---
 
+
 ### ⚡ Key Logic Preview
 Here is a glimpse of the internal structure. The workflow automatically handles data logging and scheduled triggers to ensure consistent market monitoring:
 
